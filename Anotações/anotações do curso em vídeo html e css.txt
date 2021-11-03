@@ -1,0 +1,111 @@
+Curso em Vídeo anotações
+
+HTML é semântico
+/____________________/
+
+
+Repositórios Públicos
+
+github.com/gustavoguanabara   gustavoguanabara.github.io
+
+
+Referências on-line
+
+referência MDN (mozila developer network)
+
+W3C standards (world wide web consortium)
+
+whatwg living standard (web hypertext technology working group)
+
+W3Schools (refsnes data) 
+
+/___________________________________________________________/
+
+Livros para aprender html e css
+
+MArk pilgrim - html 5
+o´reilly
+
+Eric meyer - css 
+o´reilly
+
+Eselle weyl - flexbox in csss 
+o´Reilly
+
+Eric Meyer - grid layout in css 
+o´reilly
+
+Elizabeth castro e bruce hyslop - html5 e css
+alta books
+
+jon duckett - html e css
+alta books 
+
+elisabeth Robson e eric freeman - html e css
+alta books
+
+nate cooper e kim gee - crie seu próprio site
+
+Mauricio samy silva - html 5
+novatec
+
+Mauricio samy silva - css 3
+novatec
+
+mauricio samy silva - html5 e css
+novatec
+
+mauricio samy silva - css grid layout
+novatec
+/_________________________________________/
+ 
+Livrso de design
+
+
+david dabner e outros - curso de gráficos
+gg
+
+bob e maggie gordon - design
+senac 
+
+eva heller - a psicologia das cores 
+gg
+ 
+ellen lupton - pensar com tipos
+gg
+/___________________________________________/
+
+livros
+
+
+jorge montaya e stephen burge - flexbox explained 
+ostraining 
+
+jorge montaya e stephen burge - css grid explained 
+ostraining 
+
+bill sanders - html5 
+bookman
+
+eric meyer - css 
+bookman
+/_________________________________________________/
+
+A internet surgiu durante a guerra fria 1969
+
+
+Dwight Eisenhower criou a Darpa 
+estudos de tecnologia para guerra.
+preocupado coma evolução da tecnologia da união soviética
+
+
+
+
+
+
+
+
+
+
+
+
