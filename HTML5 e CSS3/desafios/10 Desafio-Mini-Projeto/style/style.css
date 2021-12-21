@@ -72,15 +72,16 @@ nav > a { color: white;
 
 nav > a:hover {background-color: var(--cor02);}
 
-main {background-color:white;
-max-width: 1000px;
-min-width:300px;
-margin: auto;
-padding: 18px;
-box-shadow: 5px 3px 7px 1px black;
-margin-bottom: 10px;
-border-bottom-left-radius: 5px;
-border-bottom-right-radius: 5px;}
+main {
+    background-color:white;
+    max-width: 1000px;
+    min-width:300px;
+    margin: auto;
+    padding: 18px;
+    box-shadow: 5px 3px 7px 1px black;
+    margin-bottom: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;}
 
 main > p span {background-color:var(--cor02);}
 
